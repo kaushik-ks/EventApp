@@ -9,4 +9,8 @@ public class EventsDBUtil {
     public static void updateEvent(String eventId, Event event){
         //update using event id
     }
+
+    public static void deleteEvent(String eventId){
+
+    }
 }
